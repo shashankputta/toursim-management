@@ -1,1 +1,1 @@
-# toursim-management
+# tourism-management
